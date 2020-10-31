@@ -3,4 +3,8 @@
 
 # this test in local rep. is to check changes in REDNAME.md file.
 
-### I am goint to push this feature to remote and create a new pull request
+## I am goint to push this feature to remote and create a new pull request
+**Enfase  no texto**
+*menos enfase*
+˜˜Rachado˜˜
+**Olá moça --O que tens em seuy coração--?**
